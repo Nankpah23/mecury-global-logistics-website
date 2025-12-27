@@ -1,0 +1,7 @@
+// Simple JavaScript for future interactivity
+console.log("Mercury Global Logistics website loaded successfully");
+
+// You can later add:
+// - Package tracking
+// - Contact form validation
+// - Animations
